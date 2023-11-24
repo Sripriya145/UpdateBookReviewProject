@@ -1,0 +1,19 @@
+.Main
+{
+  background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../../assert/bookpage.jpg');
+    
+    /* background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('https://tophinhanhdep.com/wp-content/uploads/2021/10/Book-Wallpapers.jpg'); */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+    width:auto;
+    
+}
+.content
+{
+    color: aliceblue;
+    padding-top: 50px;
+    
+    
+}
